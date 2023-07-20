@@ -2,11 +2,11 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 1.9
+sortorder: 2.1
 appsused: ai
 title: "Symbols Summative"
 level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=405785&grpid=0&isprv=0&bp=0&ou=448665"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=483589&grpid=0&isprv=0&bp=0&ou=503887"
 submission: "illustrator-package"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/illustrator/using/symbols.html#use_9_slice_scaling" title="Symbols" target="_blank">Symbols</a>

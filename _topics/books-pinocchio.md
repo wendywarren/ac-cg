@@ -6,7 +6,7 @@ sortorder: 3.9
 appsused: indd
 title: "Books Pinocchio"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=385683&grpid=0&isprv=0&bp=0&ou=411803"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=492654&grpid=0&isprv=0&bp=0&ou=503897"
 submission: "indd-book-package-plus-pdf"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/indesign/using/creating-book-files.html" title="Adobe: Help, Creating Books in InDesign" target="_blank">Creating Books</a>

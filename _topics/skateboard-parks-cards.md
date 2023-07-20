@@ -2,11 +2,11 @@
 layout: submission
 type: assignment
 formsum: summative
-sortorder: 4.9
+sortorder: 7.9
 appsused: ai
 title: "Skateboard Parks Cards"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=167175&grpid=0&isprv=0&bp=0&ou=193296"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=456571&grpid=0&isprv=0&bp=0&ou=463723"
 submission: "illustrator-variables-summative"
 links:
 downloads: "https://www.dropbox.com/s/06868w69vd8uoje/illustrator-variable-data-summative.zip?dl=1"
@@ -29,7 +29,7 @@ assignment: |
   * An indication whether it's accessible. You need to indicate a positive or negative status.
 
   <div class="attentionbox filename">
-    <a href="https://docs.google.com/spreadsheets/d/1bIP2U_x21fGEUqN9hUNMWlycAdyf-G7xcuvqf8Rl6As/edit?usp=sharing" title="Go to the Google Spreadsheet" target="_blank">Get the data from this Google spreadsheet.</a>
+    <a href="https://algonquinlivecom-my.sharepoint.com/:x:/g/personal/paradia_algonquincollege_com/EUNhAV3UcsBBl7GBKfVQ3esBSinO3DNv9428dTY45Oz3Qw?e=SIaLSd" title="Go to the Spreadsheet" target="_blank">Get the data from this spreadsheet.</a>
   </div>
 
   You need to have each of the types of variables in your file:

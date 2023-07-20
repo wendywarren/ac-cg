@@ -6,7 +6,7 @@ sortorder: 2.9
 appsused: psd ai indd
 title: "Double Exposure Effect"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=385681&grpid=0&isprv=0&bp=0&ou=411803"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=492652&grpid=0&isprv=0&bp=0&ou=503897"
 submission: "pdf+zipped-folder"
 links: 
 downloads: 

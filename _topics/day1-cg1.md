@@ -41,17 +41,16 @@ details: |
   - Six semesters of Computer Graphics.
     - There’s a gradual progression for six semesters, like one long course.
   - This site contains all of the Computer Graphics curriculum.
-    - <a href="https://www.youtube.com/user/ACComputerGraphics/featured" target="_blank">CG YouTube Channel</a>.
     - Grades will be on Brightspace.
       - Download the Brightspace <a href="https://apps.apple.com/ca/app/brightspace-pulse/id1001688546" target="_blank">app for iOS</a> or <a href="https://play.google.com/store/apps/details?id=com.d2l.brightspace.student.android&amp;hl=en" target="_blank">for Android</a>.
     - Formative assignments: learn & practice software skills.
     - Summative assignments: evaluate your mastery of software skills.
 
   ### Get Set Up
-  - <a href="https://join.slack.com/t/2024graphicde-abb2216/shared_invite/zt-urikpexz-Mbd3HlB8WokP0pAh0n6HcA" title="Join the Grads of '24 Slack workspace" target="_blank">Join the Grads of '24 Slack workspace</a>.
   - <a href="/setups/mac.html" >Set up macOS</a>.
   - Back up your files.
   - Connect to <a href="/setups/college-services.html">college online services</a>.
+  -  Set up printing from your Mac to the <a href="https://algonquincollege.freshdesk.com/support/solutions/articles/11000016291-how-to-install-mobility-print-on-your-mac" title="Set up printing from your Mac" target="_blank">hallway printers</a> and to the <a href="https://www.algonquincollege.com/printshop/" title="Set up printing from your Mac to the Print Shop" target="_blank">Print Shop</a>.
   - Use a mouse every class.
   <!--- - Optional: If needed, <a href="https://www.apple.com/ca/shop/product/MMEL2AM/A/thunderbolt-3-usb-c-to-thunderbolt-2-adapter" target="_blank">purchase this adaptor</a> to connect to displays.--->
   - Bring a pair of earphones/headphones to listen to video tutorials.

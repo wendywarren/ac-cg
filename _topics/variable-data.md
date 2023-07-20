@@ -2,11 +2,11 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 4.0
+sortorder: 7.0
 appsused: ai
 title: "Variable Data"
 level: cg5
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=236853&grpid=0&isprv=0&bp=0&ou=279828"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=456570&grpid=0&isprv=0&bp=0&ou=463723"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="http://helpx.adobe.com/illustrator/using/data-driven-graphics-templates-variables.html" title="Adobe: Illustrator Variable Data" target="_blank">Variable Data</a>

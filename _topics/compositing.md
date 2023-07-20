@@ -6,7 +6,7 @@ sortorder: 1.9
 appsused: psd
 title: "Compositing"
 level: cg2
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=405768&grpid=0&isprv=0&bp=0&ou=448668"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=477595&grpid=0&isprv=0&bp=0&ou=503895"
 submission: "photoshop-document"
 links:
 downloads:

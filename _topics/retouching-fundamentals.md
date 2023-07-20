@@ -6,7 +6,7 @@ sortorder: 5.4
 appsused: psd
 title: "Retouching Fundamentals"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381853&grpid=0&isprv=0&bp=0&ou=409084"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=442937&grpid=0&isprv=0&bp=0&ou=463721"
 submission: "my-assignment-folder"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/using/retouching-repairing-images.html" target="_blank" title="Adobe: Retouch & Repair Photos">Retouch & Repair Photos</a>

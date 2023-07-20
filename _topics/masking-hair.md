@@ -6,7 +6,7 @@ sortorder: 5.3
 appsused: psd
 title: "Masking Hair"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381852&grpid=0&isprv=0&bp=0&ou=409084"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=442936&grpid=0&isprv=0&bp=0&ou=463721"
 submission: "my-assignment-folder"
 links:
 downloads: "https://www.dropbox.com/s/8fzflxubke149eb/photoshop-masking-hair.zip?dl=1"

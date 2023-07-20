@@ -284,7 +284,7 @@ header nav ul li a:link { color: white; }
 header nav ul li a:hover { color: var(--limegreen100); }
 header nav ul li a:visited { color: white; }
 section.courseinfo ul {
-    list-style-type: none;
+    list-style: none;
     margin: .25rem 0 0.5rem 0;
     padding: 0 0.5rem 0 0;
 }
@@ -292,9 +292,9 @@ section.courseinfo ul {
 section.courseinfo ul li { display: block; }
 section.content ul {
 	list-style: outside none;
-  margin-left: 1rem; 
-  padding-left: 1em;
-  text-indent: -2em;
+	margin-left: 1rem; 
+	padding-left: 1em;
+	text-indent: -2em;
 }
 section.content .item1 ul li { display: block; }
 section.content .item1 ul li:before,
@@ -306,9 +306,11 @@ section.content .item2 ul li:before {
 section.content .item1 ul li {  }
 section.content .item1 ul li a { margin-left: .4rem; }
 
-section.content .item2 ul { margin: 0 0 1rem 0; }
+section.content .item2 ul { list-style: none; margin: 0 0 1rem 0; }
 section.content .item2 ul li { margin-left: 0rem; }
 section.content .item2 ul li:before { padding-right: .5rem ; }
+
+section.content .item3 ul { list-style: none; }
 
 a.summative {
 	font-weight: 600;

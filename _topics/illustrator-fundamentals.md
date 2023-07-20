@@ -6,7 +6,7 @@ sortorder: 2.9
 appsused: ai
 title: "Illustrator Fundamentals"
 level: cg1
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=381846&grpid=0&isprv=0&bp=0&ou=409084"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=442930&grpid=0&isprv=0&bp=0&ou=463721"
 submission: "my-assignment-folder"
 links:
 downloads: "https://www.dropbox.com/s/1yrs6w2qxj6qtxd/illustrator-fundamentals.zip?dl=1"

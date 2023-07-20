@@ -13,14 +13,25 @@ details: |
   You may use images listed below without attribution for your assignments. That said, if your teacher directs you to include attribution, please do so. What the teacher states in class is the law of the land.
 
   ### SVG and Icons
-
+  - <a href="https://atlasicons.vectopus.com/" title="Atlas Icons">Atlas Icons</a>
+  - <a href="https://feathericons.com" title="Feather Icons">Feather Icons</a>
+  - <a href="https://css.gg/" title="CSS Icons">CSS Icons</a>
+  - <a href="https://glyphs.fyi/" title="Glyphs Icons">Glyphs Icons</a>
+  - <a href="https://healthicons.org/" title="Health Icons">Health Icons</a>
+  - <a href="https://heroicons.com" title="Hero Icons">Hero Icons</a>
+  - <a href="https://iconic.app" title="Iconic.app">Iconic.app</a>
   - <a href="https://iconmonstr.com/" title="Icon Monstr">IconMonstr</a>
+  - <a href="https://lineicons.com/icons/" title="Line Icons">Line Icons</a>
+  - <a href="https://thenounproject.com/" title="The Noun Project">The Noun Project</a>
   - <a href="https://openmoji.org/" title="OpenMoji">OpenMoji</a>
   - <a href="https://phosphoricons.com" title="Phosphor Icons">Phosphor Icons</a>
+  - <a href="https://remixicon.com" title="Remix Icons">Remix Icons</a>
+  - <a href="https://sargamicons.com" title="Sargam Icons">Sargam Icons</a>
   - <a href="https://simpleicons.org/" title="Simple Icons">Simple Icons</a>
-  - <a href="https://www.svgrepo.com" title="SVG Repo">SVG Repo</a>
-  - <a href="https://thenounproject.com/" title="The Noun Project">The Noun Project</a>
   - <a href="https://github.com/edent/SuperTinyIcons" title="Super Tiny Icons">Super Tiny Icons</a>
+  - <a href="https://www.svgrepo.com" title="SVG Repo">SVG Repo</a>
+  - <a href="https://tablericons.com" title="Tabler Icons">Tabler Icons</a>
+  - <a href="https://www.untitledui.com/icons" title="Untitled UI">Untitled UI</a>
 
   ### Vector Logos
 

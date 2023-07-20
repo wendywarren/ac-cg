@@ -6,7 +6,7 @@ sortorder: 4.0
 appsused: psd
 title: "Brushes"
 level: cg3
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=354415&grpid=0&isprv=0&bp=0&ou=372603"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=483554&grpid=0&isprv=0&bp=0&ou=503882"
 submission: "photoshop-document"
 links: |
   - Adobe: <a href="https://helpx.adobe.com/photoshop/how-to/photoshop-brushes-intro.html" title="Adobe: How to use Photoshop Brushes video tutorial" target="_blank">Brushes</a>
@@ -39,7 +39,7 @@ details: |
 
   <img alt="pastel-brushes-panels" src="/images/photoshop-brushes/pastel-brushes-panels.gif">
 
-  All of our Tool Presets are in the Tool Presets panel and *not* in the Brushes Preset panel.
+  All of our Tool Presets are in the Options Bar along the top of the screen.
 
   It's handy to have the Tools Presets panel open. It's quicker to access presets than to go to the dropdown at the top-left of the screen. We're using Tool Presets rather than Brush Presets because they store the information from the Brushes Panel, plus the information from the control bar along the top of the screen. The Brush Presets don't save all that information.
 

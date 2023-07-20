@@ -61,7 +61,7 @@ details: |
   : Computers can be purchased either at an Apple Retail store (<a href="https://www.apple.com/ca/retail/rideau/" target="_blank">Rideau Centre</a> or <a href="https://www.apple.com/ca/retail/bayshoreshoppingcentre/" target="_blank">Bayshore</a>) to take advantage of their educational discount of 6 to 10 percent.
 
   Apple Online Store for Education
-  : You can get the same discount by buying online at <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro" target="_blank">Apple’s online education store</a>
+  : You can get the same discount by buying online at <a href="https://www.apple.com/ca_edu_93120/shop/buy-mac/macbook-pro/16-inch" target="_blank">Apple’s online education store</a>
 
   Apple Refurbished Online Store
   : You can also purchase a refurbished MacBook Pro from the <a href="https://www.apple.com/ca_edu_93120/shop/browse/home/specialdeals" target="_blank">Apple online store</a>. These aren't *used* machines. Most of them came off the production lines with a flaw. Apple repaired & inspected them. You get a warranty.

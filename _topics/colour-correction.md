@@ -2,11 +2,11 @@
 layout: submission
 type: assignment
 formsum: formative
-sortorder: 3.1
+sortorder: 3.2
 appsused: psd
 title: "Colour Correction"
 level: cg4
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=405791&grpid=0&isprv=0&bp=0&ou=448665"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=483595&grpid=0&isprv=0&bp=0&ou=503887"
 submission: "my-assignment-folder"
 links: 
 downloads: "https://www.dropbox.com/s/mhf0ay8it0kwvnx/photoshop-colour-correction.zip?dl=1"

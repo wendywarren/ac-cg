@@ -6,7 +6,7 @@ sortorder: 2.0
 appsused: psd
 title: "Blending & Masking"
 level: cg6
-brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=385680&grpid=0&isprv=0&bp=0&ou=411803"
+brightspace: "https://brightspace.algonquincollege.com/d2l/lms/dropbox/user/folder_submit_files.d2l?db=492651&grpid=0&isprv=0&bp=0&ou=503897"
 submission: "my-assignment-folder"
 links:
 downloads: "https://www.dropbox.com/s/397fnbeca3pt0bo/photoshop-blending-and-masking.zip?dl=1"
